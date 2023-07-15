@@ -1087,10 +1087,10 @@ for xd in range(10000):
  
 logo = """
  
-\033[1;97m888   88 8888P 8888P    db    88\033[1;91m 88b 88 
-\033[1;97m88   88   dP    dP    dPYb   88\033[1;91m88Yb88 
-\033[1;97mY8   8P  dP    dP    dP__Yb  88  .o\033[1;91m88 Y88 
-\033[1;97m`YbodP' d8888 d8888 dPYb 88ood8\033[1;91m88  Y8 
+\033[1;97m888   88 8888P 8888P    db    88\033[1;91m
+\033[1;97m88   88   dP    dP    dPYb   88\033[1;91m
+\033[1;97mY8   8P  dP    dP    dP__Yb  88  .o\033[1;91m
+\033[1;97m`YbodP' d8888 d8888 dPYb  88ood8\033[1;91m
 \033[38;5;46m———————————————————————————————————
 \033[38;5;46m[\033[47m\033[1;92m>)\x1b[0m\033[1;97m Author      : UZZAL(ᗒᗣᗕ)՞
 \033[38;5;46m[\033[47m\033[1;92m>)\x1b[0m \033[1;97mFACEBOOK    : MD UZZAL HOSSAIN 
@@ -1140,7 +1140,7 @@ def rehan():
 	elif gh =='3':
 		chos()
 	elif gh =='4':
-		os.system('xdg-open https://www.facebook.com/itzaUzzalVau2008')
+		os.system('xdg-open https://www.facebook.com/itzUzzalVau2008')
 	elif gh =='0':
 		print('[•] THANKS FOR USE ')
 		time.sleep(3)
@@ -1352,7 +1352,7 @@ def ff():
 		lines()
 		for guru in user:
 			uid = kode+guru
-			pwx = [guru,'freefire','fflover','fUZZALing','ffqueen']
+			pwx = [guru,'freefire','fflover','fariagaming','ffqueen']
 			yaari.submit(fcrack,uid,pwx,tl)
 	print('[✓] Crack process has been completed')
 	print('[?] Idz saved in [ok.txt,cp.txt]')
@@ -1365,7 +1365,7 @@ def bd():
 	user=[]
 	os.system('clear')
 	print(logo)
-	print('[•] EXAMPLE : 088***,88***,88****,88****,.ETC')
+	print('[•] EXAMPLE : 88017,88019,88018,88016,.ETC')
 	lines()
 	kode = input('[•]\033[1;37m PUT YOUR SIM CODE : ')
 	os.system('clear')
